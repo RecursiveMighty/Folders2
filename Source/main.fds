@@ -1,0 +1,6 @@
+newcmd
+print
+lv char "h"
+newcmd
+print
+lv char "e"
